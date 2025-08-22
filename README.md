@@ -27,7 +27,7 @@ Projects range from simple, to complicated and complex. But if “everything (in
 Especially, I wish to start for the Staking for the degens and the devs – because they are the earliest adopters, the most critical, and if we win them, we win the world. The second parallel opportunity to target is the Shopify platform, because they are perfect for the HubPal liquidity and funding sourcing.
 
 <p align="center">
-The Kid Dumping a Coin for $30,000 While Live Streaming It
+  <a href="https://www.youtube.com/watch?v=P7h8ghEI040&t=2s">The Kid Dumping a Coin for $30,000 While Live Streaming It
 </p>
 
 <div align="center">
@@ -35,7 +35,7 @@ The Kid Dumping a Coin for $30,000 While Live Streaming It
 </div>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=P7h8ghEI040&t=2s"></a>We help the world to Buidl responsible projects!
+</a>We help the world to Buidl responsible projects!
 </p>
 
 <div align="center">
