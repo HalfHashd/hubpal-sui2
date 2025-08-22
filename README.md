@@ -31,8 +31,12 @@ Especially, I wish to start for the Staking for the degens and the devs – beca
 </p>
 
 <div align="center">
-  <img src="assets/kid-dumps-live-streaming.png" width="25%">
+  <img src="assets/kid-dumps-live-streaming.png" width="18%">
 </div>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=P7h8ghEI040&t=2s">The Kid Dumping a Coin for $30,000 While Live Streaming It</a>
+</p>
 
 <div align="center">
   <img src="assets/hubpal-buidls.jpg" width="15%">
