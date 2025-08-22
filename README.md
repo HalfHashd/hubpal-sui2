@@ -26,6 +26,29 @@ Projects range from simple, to complicated and complex. But if “everything (in
 
 Especially, I wish to start for the Staking for the degens and the devs – because they are the earliest adopters, the most critical, and if we win them, we win the world. The second parallel opportunity to target is the Shopify platform, because they are perfect for the HubPal liquidity and funding sourcing.
 
+html
+<div align="center">
+  
+  <table>
+    <tr>
+      <!-- Image 1 -->
+      <td align="center">
+        <img src="assets/kid-dumps-live-streaming.png" width="15%"/>
+      </td>
+      <!-- Image 2 -->
+      <td align="center">
+        <img src="assets/hubpal-buidls.jpg" width="15%"/>
+      </td>
+    </tr>
+    <tr>
+      <!-- Optional Caption for Image 1 -->
+      <td align="center">HubPal Builds</td>
+      <!-- Optional Caption for Image 2 -->
+      <td align="center">Live Streaming Concept</td>
+    </tr>
+  </table>
+  
+
 ---
 
 ## The HubPal.sui “Brilliance” – Insights from AI
