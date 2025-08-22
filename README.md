@@ -39,7 +39,7 @@ Especially, I wish to start for the Staking for the degens and the devs – beca
 </p>
 
 <div align="center">
-  <img src="assets/hubpal-buidls.jpg" width="15%">
+  <img src="assets/hubpal-buidls.jpg" width="22%">
 </div>
 
 ---
