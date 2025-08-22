@@ -27,7 +27,7 @@ Projects range from simple, to complicated and complex. But if “everything (in
 Especially, I wish to start for the Staking for the degens and the devs – because they are the earliest adopters, the most critical, and if we win them, we win the world. The second parallel opportunity to target is the Shopify platform, because they are perfect for the HubPal liquidity and funding sourcing.
 
 <p align="center">
-  We want to help make world to have responsible projects!
+  ####We help the world to have responsible projects!
 </p>
 
 <div align="center">
