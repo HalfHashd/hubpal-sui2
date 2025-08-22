@@ -15,7 +15,7 @@ The HubPal protocol and use cases examples:
 
 - “HubPal platform is like the Shopify platform but instead of storefronts it is for projects (and crowdfunding)”
  - Shopify and the American Express has a loan program for their merchants.
-  - - Shopify is of special interest to us because it is a closed system. Our platform and on the right the liquidity that the Shopify offers their merchants both the traditional Fiat money lending and the use of the deeply stable coin and other crypto assets are to be used. This helps two needs of Shopify platform: currently they get their funding with our merchant loans from thanks and financiers. Also they are limited to the US dollar and the Canadian currencies and thusly our methodology and platform we're bringing the worldwide currencies and liquidity of the cryptos to their platform.
+    - Shopify is of special interest to us because it is a closed system. Our platform and on the right the liquidity that the Shopify offers their merchants both the traditional Fiat money lending and the use of the deeply stable coin and other crypto assets are to be used. This helps two needs of Shopify platform: currently they get their funding with our merchant loans from thanks and financiers. Also they are limited to the US dollar and the Canadian currencies and thusly our methodology and platform we're bringing the worldwide currencies and liquidity of the cryptos to their platform.
     - For American Express, TL;DR: We can build a comprehensive close loop platform of their merchants and card holders plus the trillions of the crypto liquidity.
 
 - Staking
