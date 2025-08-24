@@ -15,7 +15,7 @@ The first protocol to give every project and its parts a .sui identity. We turn 
 - **Link:** [https://github.com/HalfHashd/hubpal-sui-demo](https://github.com/HalfHashd/hubpal-sui-demo)
 - **Note:** `HubGo.org` forwards to this GitHub repo.
 
-Both sites are being worked on - as I am looking to launch, looking for project mates, once we (me and my LLM AIs) come up with a killer use case for the devs adn degens, bc we win them, we win the world, and the 99% ain't really ready for paying attention still. </br>
+Both sites are being worked on - as I am looking to launch, looking for project mates - once we (me and my LLM AIs) come up with a killer use case for the devs and degens, bc we win them, we win the world, and the 99% ain't really ready for paying attention still. </br>
 
 # HubPal.sui
 
