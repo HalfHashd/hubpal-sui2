@@ -1,6 +1,37 @@
 # hubpal-sui2
 The first protocol to give every project and its parts a .sui identity. We turn milestones, deliverables, and roles into composable on-chain objects, creating a new standard for how projects are built and valued on Sui. </br>
+======
+Background to how I got to SNS, SUI, and .sui:
+[ Read me: This README.md is a clone of [hubpal-ethgb](https://github.com/HalfHashd/hubpal-ethgb) and [View Live App](https://hubpal-ethgb.vercel.app) (08.15-17) which was the project done at the hackathon. Here, we (GPT4 and V0 and me) simply replaced** ENS to SNS and .eth to .sui. 
 
+At the new /hubpal-sui2, we will rebuild fucused on Walrus* and SUI. I am not a coder or trained engineer, but I am near peerless in imagining new use cases, new systems, with a focus on mating the blockchain + AI + the Woo. Yes. ; ) ... I know of SUI*, but have only just begun to dig in, esp. after Walrus presentation at ethGlobal (08.15-17.2025) - SUI mission to be, in my own words: the d/d/d (decentralized-distributed-data) to be as "maximally-feasible" as possible. 
+
+(*Raoul Pal, and his maxi macro exponetial age thesis and his support of SUI. I agree.) Today 08.18: Based on my beginning knowledge of Walrus and SUI, I have done a modified and new use case and demo project, with a bit different tack, for SNS and Walrus, at https://github.com/HalfHashd/hubpal-sui2 (New ETA is 08.21) 
+
+**Read me2: The replacement attempt broke the demo ( at https://github.com/HalfHashd/hubpal-sui ) so see the /hubpal-ethgb for the ENS and .eth version. I will now build https://github.com/HalfHashd/hubpal-sui2 (New ETA is 08.21) with a bit diff. strategy-after my first deep dive into Move and SUI ATM. That MOVE is OOP will change how HubPal.org concept will be architected. Imagine: Associating select object-types with SNS .sui functions, and to "micro oracle" to RW events, QuickBook, real estate management apps like Yardi, etc. etc.! {But, I digress.} 
+
+(The rest of do README, the below is the "SNS SUI" clone of hubpal-ethgb.)  
+
+<p align="center">
+  <img src="assets/HubPal_difference.png" alt="HubPal logo" width="60%">
+</p>
+
+<p align="center">
+  <img src="assets/logo-where_world_builds_eth.jpg" alt="HubPal logo" width="20%">
+</p>
+
+# HubPal-sui — SNS + Chainlink (will not be used; looking for a model for "micro oracling" on SUI) + PYUSD (not using ) “Shopify" for Projects & Crowdfunding
+
+## 🖥️ Live Demo  
+👉 [View Live App](https://hubpal-ethgb.vercel.app)  
+👉 [GitHub Repo](https://github.com/HalfHashd/hubpal-ethgb)  
+
+## 📂 Continue Building on v0.app  
+👉 [Open in v0.app](https://v0.app/chat/projects/1KPWSugTFD6)  
+
+End of Background. 
+
+======
 ## Demo & Website Links
 
 **HubPal.org**
