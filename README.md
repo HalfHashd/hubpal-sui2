@@ -10,7 +10,7 @@ At the new /hubpal-sui2, we will rebuild fucused on Walrus* and SUI. I am not a 
 
 Read me2: The replacement attempt broke the demo ( at https://github.com/HalfHashd/hubpal-sui ) so see the /hubpal-ethgb for the ENS and .eth version. I will now build https://github.com/HalfHashd/hubpal-sui2 (New ETA is 08.21) with a bit diff. strategy-after my first deep dive into Move and SUI ATM. That MOVE is OOP will change how HubPal.org concept will be architected. Imagine: Associating select object-types with SNS .sui functions, and to "micro oracle" to RW events, QuickBook, real estate management apps like Yardi, etc. etc.! {But, I digress.} 
 
-The rest of this README, the below is the "SNS SUI" clone of hubpal-ethgb. ] 
+The rest of this README, the below is the "SNS SUI" clone of hubpal-ethgb.] 
 ======
 # HubPal-sui — SNS + Chainlink (will not be used; looking for a model for "micro oracling" on SUI) + PYUSD (not using ) “Shopify" for Projects & Crowdfunding
 
