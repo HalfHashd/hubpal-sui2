@@ -1,9 +1,25 @@
 # hubpal-sui2
 The first protocol to give every project and its parts a .sui identity. We turn milestones, deliverables, and roles into composable on-chain objects, creating a new standard for how projects are built and valued on Sui. </br>
 
+## Demo & Website Links
+
+**HubPal.org**
+- **Description:** Main demo site for the HubPal-SUI platform.
+- **Created:** 08.22.2025
+- **Link:** [https://v0-hubpal-sui-demo.vercel.app/](https://v0-hubpal-sui-demo.vercel.app/)
+- **Note:** `HubPal.org` forwards to this Vercel demo.
+
+**HubGo.org**
+- **Description:** Project information and GitHub repository.
+- **Created:** 08.18.2025
+- **Link:** [https://github.com/HalfHashd/hubpal-sui-demo](https://github.com/HalfHashd/hubpal-sui-demo)
+- **Note:** `HubGo.org` forwards to this GitHub repo.
+
+- Both are being worked on - looking to launch, once we (me and my LLM AIs) come up with a killer use case for the devs adn degens, bc we win them, we win the world, and the 99% ain't really ready for paying attention still. </br>
+
+
 - HubPal.org goes to our mock demo site. Created 08.22.2025</br>
 - Hubgo.org comes to this READMe page. Created 08.18.2025</br>
-- Both are being worked on - looking to launch, once we (me and my LLM AIs) come up with a killer use case for the devs adn degens, bc we win them, we win the world, and the 99% ain't really ready for paying attention still. </br>
 
 # HubPal.sui
 
