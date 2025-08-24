@@ -28,7 +28,7 @@ End of Background.
 
 ======
 ## Demo & Website Links</br>
-(Updated 08.23.2025)
+(Updated 08.23.2025)</br>
 **HubPal.org**
 - **Description:** Main demo site for the HubPal-SUI platform.
 - **Created:** 08.22.2025
