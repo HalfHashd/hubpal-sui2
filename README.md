@@ -12,13 +12,7 @@ At the new /hubpal-sui2, we will rebuild fucused on Walrus* and SUI. I am not a 
 
 (The rest of do README, the below is the "SNS SUI" clone of hubpal-ethgb.)  
 
-<p align="center">
-  <img src="assets/HubPal_difference.png" alt="HubPal logo" width="60%">
-</p>
-
-<p align="center">
-  <img src="assets/logo-where_world_builds_eth.jpg" alt="HubPal logo" width="20%">
-</p>
+======
 
 # HubPal-sui — SNS + Chainlink (will not be used; looking for a model for "micro oracling" on SUI) + PYUSD (not using ) “Shopify" for Projects & Crowdfunding
 
