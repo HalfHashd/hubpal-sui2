@@ -27,8 +27,8 @@ The rest of this README, the below is the "SNS SUI" clone of hubpal-ethgb.] </br
 End of Background. 
 
 ======
-## Demo & Website Links
-
+## Demo & Website Links</br>
+(Updated 08.23.2025)
 **HubPal.org**
 - **Description:** Main demo site for the HubPal-SUI platform.
 - **Created:** 08.22.2025
