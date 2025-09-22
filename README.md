@@ -175,3 +175,10 @@ That, the author is developing (in final stages) – “unity” commerce system
 **Contact:** 1@1000x10.com
 
 **Demo:** (used LLM to generate prompts for V0.app)
+
+graph TD
+    L1[Raw Data<br/>(minerals, elements)<br/>• Pixels • Text • Numbers • Signals] --> 
+    L2[Structured Data<br/>(plants)<br/>• Databases • Schemas • Tokenized assets • Real estate ledgers]
+    L2 --> L3[Annotated / Contextual Data<br/>(animals)<br/>• Labels • Cross-references • Riders, clauses • Risk tags]
+    L3 --> L4[Purpose / Unity OS<br/>(humans)<br/>• Localized AGI • Project categories • Community uses • Unity-bias evolution]
+
